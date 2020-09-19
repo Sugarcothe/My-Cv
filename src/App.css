@@ -1,0 +1,14 @@
+.navbar .nav .nav-link {
+  color: white;
+}
+
+main {
+  margin-top: 150px;
+}
+
+.bd {
+  background-color: rgb(233, 233, 233);
+  width: auto;
+  height: 460px;
+}
+
